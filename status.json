@@ -1,8 +1,7 @@
 {
   "schema": 1,
-  "revision": 1,
-  "status": "active",
-  "issued_at": "2026-09-02T00:00:00Z",
-  "message": "Application license active",
-  "signature": "KCQtPBIv4/9pxukLjsGjlVjcb70C0/JJWHFFyoji6Hu+WCjnTbT8aSNt/fXOOUeEBTsfuCttpYVARppr/JkTCw=="
-}
+  "revision": 2,
+  "status": "disabled",
+  "issued_at": "2026-09-01T19:06:38.264979Z",
+  "message": "Application license disabled",
+  "signature": "5PEK+vurnkGL/6yj2neGmaKc94TiiHZwzkHCaT1EEUb0588RklS9aB3eanzbP8WAB7kRncSLU1uqvSAd
